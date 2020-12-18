@@ -1,6 +1,0 @@
----
-title: "Course Project Shiny Application and Reproducible Rpubs"
-author: "Daniel Sammarco"
-date: "18/12/2020"
-output: html_document
----
